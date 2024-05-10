@@ -15,8 +15,6 @@ Hello World
 
 
 _<< :: 스트림 삽입 연선자 (stream insertion operator)_   
-
-
 > ostream 클래스에 구현됨
 * std::cin>>"입력받을 내용"
 ```
