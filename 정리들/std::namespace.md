@@ -1,5 +1,4 @@
-${\textsf{\color{green}6}}$
-6
+
 # std 
 
 * std::cout << "출력할 내용"
@@ -143,11 +142,11 @@ int main() {
 출력
 
 프로그램을 종료하려면 암호를 입력하세요.
-암호>>${\textsf{\color{green}Java}}$
+암호>>Java
 암호가 틀립니다~~
-암호>>${\textsf{\color{green}C}}$
+암호>>C
 암호가 틀립니다~~
-암호>>${\textsf{\color{green}C++}}$
+암호>>C++
 프로그램을 정상 종료합니다.
 ```
 
@@ -171,7 +170,7 @@ int main() {
 
 출력
 
-주소를 입력하세요>>${\textsf{\color{green}컴퓨터시 프로그램구 C++동 스트링 1-1}}$
+주소를 입력하세요>>컴퓨터시 프로그램구 C++동 스트링 1-1
 주소는 컴퓨터시 프로그램구 C++동 스트링 1-1입니다
 
 ```
@@ -204,7 +203,7 @@ int main() {
 }
 
 출력
-Falling in love with you를 부른 가수는(힌트 : 첫글자는 E)?${\textsf{\color{green}Elvis Pride}}$Elvis Pride
+Falling in love with you를 부른 가수는(힌트 : 첫글자는 E)?Elvis Pride
 틀렸습니다. Elvis Presley입니다.
 
 ```
