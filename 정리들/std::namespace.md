@@ -36,7 +36,7 @@ int main(){
 
 
 * 입력 버퍼 내장
-* **Enter** 키가 입력될 때까지 입력된 키를 입력 버퍼에 저장
+* **Enter** 키가 입력될 때까지 입력된 키를 입력 버퍼에 저장    
 _\>> :: 스트림 추출 연선자 (stream extraction operator)_   
 > iostream 헤더파일에 스트림 추출 연산자로 재정의됨
 
