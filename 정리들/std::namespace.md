@@ -1,4 +1,5 @@
-
+${\textsf{\color{green}6}}$
+6
 # std 
 
 * std::cout << "출력할 내용"
