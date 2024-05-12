@@ -246,3 +246,16 @@ int main() {
     Circle circleArray[3] = { Circle(10), Circle(20), Circle() }; 
     
     ```
+#### this 포인터
+*  객체 자신 포인터
+*  **멤버 함수 내에서만** 사용 가능
+   ```
+   class Sample {
+   public:
+    Sample* f() {
+      ....
+      return this; // 자기 자신을 리턴
+    }
+   };
+   ``` 
+*  **static** 멤버 함수에서 사용 불가
